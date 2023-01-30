@@ -7,4 +7,4 @@ Projet OpenClassrooms,une première mission d’analyse exploratoire des donnée
 * Mise en place de l'environnement Python
 Manipulation des données en utilisant les librairies **numpy**, **pandas** , **matplotlib**, **seaborn** et **missingno**
 * Netoyage des données et gestion des valeurs manquantes
-* Visualisation et anaylyses des données
+* Visualisation et analyses des données
